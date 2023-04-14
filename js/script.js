@@ -11,7 +11,12 @@
 
 //            Replace function
 
-const announcement = 'Mr Joe, come to the office! Mr Joe, asap!'
-console.log(announcement.replace('Joe', 'Mike'));
-console.log(announcement.replaceAll('Joe', 'Arnold'));
-console.log(announcement.replaceAll(/Mr/g, 'Doctor'));
+// const announcement = 'Mr Joe, come to the office! Mr Joe, asap!'
+// console.log(announcement.replace('Joe', 'Mike'));
+// console.log(announcement.replaceAll('Joe', 'Arnold'));
+// console.log(announcement.replaceAll(/Mr/g, 'Doctor'));
+
+const show = (text) => {
+  return text
+}
+console.log(show(2023));
