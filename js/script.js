@@ -3,7 +3,7 @@
 // const fixString = (string) => {
 //   const temp = string.toLowerCase();
 //   return temp[0].toUpperCase() + temp.slice(1)
-// } 
+// }
 
 // console.log(fixString('vALEnTYN'));
 // console.log(fixString('lYASkOVskiY'));
@@ -16,7 +16,13 @@
 // console.log(announcement.replaceAll('Joe', 'Arnold'));
 // console.log(announcement.replaceAll(/Mr/g, 'Doctor'));
 
-const show = (text) => {
-  return text
-}
-console.log(show(2023));
+// const show = (text) => {
+//   return text
+// }
+// console.log(show(2023));
+
+//    Notes
+
+// const example = () => {
+//   let text // Using let - all stays here...function scope...
+//  }
