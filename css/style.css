@@ -47,3 +47,14 @@ ul {
   flex-grow: 1;
 }
 
+.box{
+  color:#fff;
+  background-color: navy;
+  height: 50px;
+  width: 50px;
+  margin: 100px auto;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
